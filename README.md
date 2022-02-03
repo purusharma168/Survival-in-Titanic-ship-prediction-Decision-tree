@@ -1,5 +1,5 @@
 # Survival-in-Titanic-ship-prediction
-
+## Deployement link : https://titanic-apps.herokuapp.com/
 Predicting Survival in the Titanic Data Set
 <br><br>
 The titanic and titanic2 data frames describe the survival status of individual passengers on the Titanic. The titanic data frame does not contain information from the crew, but it does contain actual ages of half of the passengers. The principal source for data about Titanic passengers is the Encyclopedia Titanica.
